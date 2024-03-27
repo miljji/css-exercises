@@ -1,0 +1,29 @@
+.odd {
+    background-color:#ffa7a7 ;
+    font-family: verdana, "dejaVu Sanas", sans-serif ;
+}
+
+#Two{
+    color: blue;
+    font-size: 36px;
+}
+
+.third{
+    font-size: 24px;
+}
+
+#fourth{
+    background-color:#80ff80 ;
+    font-weight: bold;
+}
+
+/* rule 1 */
+#subsection {
+    background-color: yellow;
+    color: blue;
+  }
+  
+  /* rule 2 */
+  .main  {
+   color: red;
+  }
